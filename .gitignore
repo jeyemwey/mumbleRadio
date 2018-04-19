@@ -1,0 +1,5 @@
+# don't push certs!
+*.pem
+
+# npm can download the stuff itself
+node_modules/
