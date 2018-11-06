@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "lame": "^1.2.4",
-    "mumble": "^0.3.13",
+    "mumble": "^0.3.18",
     "request": "^2.85.0"
   }
 }
