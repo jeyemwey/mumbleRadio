@@ -11,6 +11,6 @@
   "dependencies": {
     "lame": "^1.2.4",
     "mumble": "^0.3.18",
-    "request": "^2.85.0"
+    "request": "^2.88.0"
   }
 }
